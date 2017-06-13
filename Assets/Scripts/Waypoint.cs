@@ -66,8 +66,18 @@ public class Waypoint : MonoBehaviour
 	void Update()
 	{
 		bool occupied 	= Camera.main.transform.position == gameObject.transform.position;
-		
-		switch(_state)
+        //Added some code to determine distance from camera and hide waypoints with distance greater  
+        //than 'threshold' value
+
+        //float dist = Vector3.Distance(Camera.main.transform.position, gameObject.transform.position);
+        //print("Distance: " + dist);
+        //if (dist >= threshold)
+        //{
+        //    _state = State.Hidden;
+        //    print("State: " + _state);
+        //}
+
+        switch (_state)
 		{
 			case State.Idle:
 				Idle();
