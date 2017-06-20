@@ -124,6 +124,7 @@
     <Compile Include="Assets\GoogleVR\Scripts\UI\IGvrGazeResponder.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrFPS.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\GvrIntent.cs" />
+    <Compile Include="Assets\Scripts\ExhibitAction.cs" />
     <Compile Include="Assets\Scripts\Waypoint.cs" />
   </ItemGroup>
   <ItemGroup>
