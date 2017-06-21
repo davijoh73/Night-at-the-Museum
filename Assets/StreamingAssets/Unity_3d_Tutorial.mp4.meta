@@ -1,8 +1,11 @@
 fileFormatVersion: 2
-guid: 4404566ed87cad54d9decd587ee0f9aa
-timeCreated: 1497925765
+guid: cc117730b0047484595321e4f8a100fa
+timeCreated: 1498002803
 licenseType: Free
-DefaultImporter:
+MovieImporter:
+  serializedVersion: 1
+  quality: 0.5
+  linearTexture: 0
   userData: 
   assetBundleName: 
   assetBundleVariant: 
