@@ -1,5 +1,9 @@
 # Night at the Museum
-This project is part of the Udacity VR Nanodegree program, and was intended to help students learn how to use iterative testing to continuously check for issues while developing a VR app.  This app also makes use of interactive game objects to allow the user to initiate the puzzle, located inside a small dungeon, as well as to play an interactive memory game.  Once the user completes the puzzle, they then exit the dungeon, and can reset the game if they would like.
+This project is part of the Udacity VR Nanodegree program, and is a bit more complex then my previous projects. After researching how VR is changing the travel industry, I was tasked with creating an interactive scene that helps to educate users on what I learned. I chose to create a museum with interactive paintings that display text pop-ups when you click on them. I did my best to create a scene that looks and feels like an actual museum, and tried to use lighting and some visual cues to highlight which exhibits are interactive. You navigate through the museum by clicking on waypoints, which are represented by spinning red gems. There is also a second floor with several additional exhibits and a big window looking outside. I also created a spinning 3D camera object as a bonus exhibit for fun.
+
+![alt text](Screenshots/Screenshot_20170724-202844.png "In-game screenshot")
+
+![alt text](Screenshots/Screenshot_20170724-202751.png "Another in-game screenshot")
 
 ## Installation
 * If you own an Android phone, you can install the app by simply copying the `NightAtTheMuseum.apk` file from the **Build** directory onto your android device, and installing the apk by clicking on it from the file manager.
