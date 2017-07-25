@@ -11,3 +11,12 @@ This project is part of the Udacity VR Nanodegree program, and is a bit more com
 
 ## Contributing
 You will need to download and install the [Unity Game Engine](https://unity3d.com/), as well as the [Google VR SDK Plugin for Unity](https://developers.google.com/vr/unity/download) to be able to edit this app.  Next, you will need to clone this GitHub repo, and then open `Night at the Museum` in the Unity editor to begin making modifications to the project.
+
+## Lessons Learned
+I learned a lot about importing textures and pictures from the web while working on this project, as well as creating my own objects from some of the simple 3D shapes you can create in Unity.  Building this museum from scratch also helped to enforce many of the building techniques and princicples we learned in previous lessons, and I found myself going back to some of the previous course material several different times to recall what we had learned.  I really enjoyed working on this project, and probably spent more time than I should have, but there are still some things I would change/update/add if I ever have the time.  Which brings me another valuable lessoned learned: knowing when it's "good enough".  Below is a list of a few things that I would've loved to have done with this project, but I realize that I need to continue on with my Nanodegree and cannot work on a single project endlessly.  Maybe another day!
+
+* Change waypoint from floating gems to 2D semi-transparent feet icon
+* Change sound of waypoints to shuffling feet/footsteps
+* Make the colors for the text pop-ups different colors for each painting
+* Add narrative for each of the pop-ups so you can simply listen if you prefer
+* Add more detail to some of the decorations and objects around the museum
