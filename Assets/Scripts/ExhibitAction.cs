@@ -26,5 +26,6 @@ public class ExhibitAction : MonoBehaviour {
     public void closePopup()
     {
         photo.SetActive(false);
+        _audio_source.Play();
     }
 }
